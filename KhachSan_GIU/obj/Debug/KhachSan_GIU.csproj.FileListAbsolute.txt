@@ -1,0 +1,55 @@
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.exe.config
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.exe
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.csprojResolveAssemblyReference.cache
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.Form1.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.Properties.Resources.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.csproj.GenerateResource.Cache
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.exe
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmLogin.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\Bunifu_UI_v1.52.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmChinh.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmLoaiPhong.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\BUS.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DTO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DAO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\BUS.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DTO.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DAO.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmPhong.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmKhachHang.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmNhanVien.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmTaiKhoan.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmDoiMatKhau.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmHoaDon.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frm_bcHoaDon.resources
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\RdlCompile.cache
+G:\Lap trinh quan ly\QuanLyKhachSan\KhachSan_GIU\obj\Debug\RdlCompile.compiled
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.exe.config
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.exe
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.exe
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\KhachSan_GIU.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\BUS.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DTO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DAO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\BUS.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DTO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\bin\Debug\DAO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.csprojResolveAssemblyReference.cache
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.Form1.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmChinh.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmDoiMatKhau.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmHoaDon.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmKhachHang.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmLoaiPhong.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmLogin.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmNhanVien.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmPhong.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frmTaiKhoan.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.frm_bcHoaDon.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.Properties.Resources.resources
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\KhachSan_GIU.csproj.GenerateResource.Cache
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\RdlCompile.cache
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\KhachSan_GIU\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,14 @@
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\bin\Debug\DAO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\bin\Debug\DAO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\bin\Debug\DTO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\bin\Debug\DTO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\obj\Debug\DAO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DAO\obj\Debug\DAO.pdb

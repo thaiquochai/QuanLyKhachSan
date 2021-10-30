@@ -1,0 +1,10 @@
+G:\Lap trinh quan ly\QuanLyKhachSan\DTO\bin\Debug\DTO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\DTO\bin\Debug\DTO.pdb
+G:\Lap trinh quan ly\QuanLyKhachSan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\Lap trinh quan ly\QuanLyKhachSan\DTO\obj\Debug\DTO.dll
+G:\Lap trinh quan ly\QuanLyKhachSan\DTO\obj\Debug\DTO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DTO\bin\Debug\DTO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DTO\bin\Debug\DTO.pdb
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DTO\obj\Debug\DTO.dll
+E:\Nam 3\Lap trinh quan li\QuanLyKhachSan\DTO\obj\Debug\DTO.pdb

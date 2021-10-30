@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Viet\Desktop\HELP\fHelp.chm
+
+
+Compile time: 0 minutes, 5 seconds
+3	Topics
+0	Local links
+0	Internet links
+0	Graphics
+
+
+Created c:\Users\Viet\Desktop\HELP\fHelp.chm, 5,010,121 bytes
+Compression decreased file by 1,703,677 bytes.
